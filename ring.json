@@ -1,0 +1,733 @@
+{
+ "lyon": [
+  {
+   "insee": "01043",
+   "nom": "Beynost",
+   "pop": 5198
+  },
+  {
+   "insee": "01105",
+   "nom": "Civrieux",
+   "pop": 2016
+  },
+  {
+   "insee": "01238",
+   "nom": "Massieux",
+   "pop": 2843
+  },
+  {
+   "insee": "01248",
+   "nom": "Mionnay",
+   "pop": 2294
+  },
+  {
+   "insee": "01249",
+   "nom": "Miribel",
+   "pop": 10395
+  },
+  {
+   "insee": "01275",
+   "nom": "Neyron",
+   "pop": 2421
+  },
+  {
+   "insee": "01276",
+   "nom": "Niévroz",
+   "pop": 1662
+  },
+  {
+   "insee": "01285",
+   "nom": "Parcieux",
+   "pop": 1315
+  },
+  {
+   "insee": "01322",
+   "nom": "Reyrieux",
+   "pop": 5358
+  },
+  {
+   "insee": "01376",
+   "nom": "Saint-Maurice-de-Beynost",
+   "pop": 4332
+  },
+  {
+   "insee": "01418",
+   "nom": "Thil",
+   "pop": 1261
+  },
+  {
+   "insee": "01427",
+   "nom": "Trévoux",
+   "pop": 7013
+  },
+  {
+   "insee": "38087",
+   "nom": "Chasse-sur-Rhône",
+   "pop": 6588
+  },
+  {
+   "insee": "69005",
+   "nom": "Ambérieux",
+   "pop": 651
+  },
+  {
+   "insee": "69027",
+   "nom": "Brignais",
+   "pop": 12503
+  },
+  {
+   "insee": "69028",
+   "nom": "Brindas",
+   "pop": 6775
+  },
+  {
+   "insee": "69043",
+   "nom": "Chaponost",
+   "pop": 9382
+  },
+  {
+   "insee": "69055",
+   "nom": "Les Chères",
+   "pop": 1503
+  },
+  {
+   "insee": "69049",
+   "nom": "Chasselay",
+   "pop": 2973
+  },
+  {
+   "insee": "69076",
+   "nom": "Dommartin",
+   "pop": 2687
+  },
+  {
+   "insee": "69080",
+   "nom": "Échalas",
+   "pop": 1994
+  },
+  {
+   "insee": "69094",
+   "nom": "Grézieu-la-Varenne",
+   "pop": 6472
+  },
+  {
+   "insee": "69122",
+   "nom": "Lucenay",
+   "pop": 2070
+  },
+  {
+   "insee": "69112",
+   "nom": "Lentilly",
+   "pop": 6623
+  },
+  {
+   "insee": "69118",
+   "nom": "Loire-sur-Rhône",
+   "pop": 2746
+  },
+  {
+   "insee": "69125",
+   "nom": "Marcilly-d'Azergues",
+   "pop": 1066
+  },
+  {
+   "insee": "69133",
+   "nom": "Millery",
+   "pop": 4299
+  },
+  {
+   "insee": "69136",
+   "nom": "Montagny",
+   "pop": 3218
+  },
+  {
+   "insee": "69179",
+   "nom": "Beauvallon",
+   "pop": 4260
+  },
+  {
+   "insee": "69190",
+   "nom": "Sainte-Consorce",
+   "pop": 2154
+  },
+  {
+   "insee": "69236",
+   "nom": "Saint-Romain-en-Gier",
+   "pop": 600
+  },
+  {
+   "insee": "69280",
+   "nom": "Jons",
+   "pop": 1647
+  },
+  {
+   "insee": "69268",
+   "nom": "Vourles",
+   "pop": 3332
+  },
+  {
+   "insee": "69270",
+   "nom": "Chaponnay",
+   "pop": 4548
+  },
+  {
+   "insee": "69277",
+   "nom": "Genas",
+   "pop": 13421
+  },
+  {
+   "insee": "69281",
+   "nom": "Marennes",
+   "pop": 1992
+  },
+  {
+   "insee": "69285",
+   "nom": "Pusignan",
+   "pop": 4119
+  },
+  {
+   "insee": "69287",
+   "nom": "Saint-Bonnet-de-Mure",
+   "pop": 6984
+  },
+  {
+   "insee": "69298",
+   "nom": "Toussieu",
+   "pop": 3177
+  },
+  {
+   "insee": "69289",
+   "nom": "Saint-Pierre-de-Chandieu",
+   "pop": 4616
+  },
+  {
+   "insee": "69291",
+   "nom": "Saint-Symphorien-d'Ozon",
+   "pop": 6186
+  },
+  {
+   "insee": "69294",
+   "nom": "Sérézin-du-Rhône",
+   "pop": 3133
+  },
+  {
+   "insee": "69297",
+   "nom": "Ternay",
+   "pop": 5596
+  }
+ ],
+ "marseille": [
+  {
+   "insee": "13004",
+   "nom": "Arles",
+   "pop": 51811
+  },
+  {
+   "insee": "13006",
+   "nom": "Aureille",
+   "pop": 1533
+  },
+  {
+   "insee": "13034",
+   "nom": "Eygalières",
+   "pop": 1773
+  },
+  {
+   "insee": "13067",
+   "nom": "Orgon",
+   "pop": 2762
+  },
+  {
+   "insee": "13097",
+   "nom": "Saint-Martin-de-Crau",
+   "pop": 14145
+  },
+  {
+   "insee": "83027",
+   "nom": "La Cadière-d'Azur",
+   "pop": 5739
+  },
+  {
+   "insee": "83035",
+   "nom": "Le Castellet",
+   "pop": 6040
+  },
+  {
+   "insee": "83066",
+   "nom": "Ginasservis",
+   "pop": 2075
+  },
+  {
+   "insee": "84014",
+   "nom": "Beaumont-de-Pertuis",
+   "pop": 1130
+  },
+  {
+   "insee": "83087",
+   "nom": "Nans-les-Pins",
+   "pop": 5215
+  },
+  {
+   "insee": "83093",
+   "nom": "Plan-d'Aups-Sainte-Baume",
+   "pop": 2527
+  },
+  {
+   "insee": "83096",
+   "nom": "Pourcieux",
+   "pop": 1552
+  },
+  {
+   "insee": "83097",
+   "nom": "Pourrières",
+   "pop": 5642
+  },
+  {
+   "insee": "83104",
+   "nom": "Rians",
+   "pop": 4223
+  },
+  {
+   "insee": "83105",
+   "nom": "Riboux",
+   "pop": 51
+  },
+  {
+   "insee": "83112",
+   "nom": "Saint-Cyr-sur-Mer",
+   "pop": 11658
+  },
+  {
+   "insee": "83127",
+   "nom": "Signes",
+   "pop": 3126
+  },
+  {
+   "insee": "83150",
+   "nom": "Vinon-sur-Verdon",
+   "pop": 4464
+  },
+  {
+   "insee": "84002",
+   "nom": "Ansouis",
+   "pop": 1064
+  },
+  {
+   "insee": "84010",
+   "nom": "La Bastidonne",
+   "pop": 929
+  },
+  {
+   "insee": "84026",
+   "nom": "Cadenet",
+   "pop": 4363
+  },
+  {
+   "insee": "84065",
+   "nom": "Lauris",
+   "pop": 3921
+  },
+  {
+   "insee": "84038",
+   "nom": "Cheval-Blanc",
+   "pop": 4362
+  },
+  {
+   "insee": "84133",
+   "nom": "La Tour-d'Aigues",
+   "pop": 4405
+  },
+  {
+   "insee": "84074",
+   "nom": "Mérindol",
+   "pop": 2283
+  },
+  {
+   "insee": "84076",
+   "nom": "Mirabeau",
+   "pop": 1450
+  },
+  {
+   "insee": "84093",
+   "nom": "Puget",
+   "pop": 894
+  },
+  {
+   "insee": "84095",
+   "nom": "Puyvert",
+   "pop": 865
+  },
+  {
+   "insee": "84147",
+   "nom": "Villelaure",
+   "pop": 3398
+  }
+ ],
+ "paris": [
+  {
+   "insee": "77005",
+   "nom": "Annet-sur-Marne",
+   "pop": 3408
+  },
+  {
+   "insee": "77053",
+   "nom": "Brie-Comte-Robert",
+   "pop": 19003
+  },
+  {
+   "insee": "77083",
+   "nom": "Champs-sur-Marne",
+   "pop": 27451
+  },
+  {
+   "insee": "77095",
+   "nom": "Charny",
+   "pop": 1585
+  },
+  {
+   "insee": "77108",
+   "nom": "Chelles",
+   "pop": 54620
+  },
+  {
+   "insee": "77123",
+   "nom": "Compans",
+   "pop": 754
+  },
+  {
+   "insee": "78092",
+   "nom": "Bougival",
+   "pop": 9134
+  },
+  {
+   "insee": "77139",
+   "nom": "Courtry",
+   "pop": 7330
+  },
+  {
+   "insee": "77169",
+   "nom": "Émerainville",
+   "pop": 7690
+  },
+  {
+   "insee": "78124",
+   "nom": "Carrières-sur-Seine",
+   "pop": 14791
+  },
+  {
+   "insee": "77196",
+   "nom": "Fresnes-sur-Marne",
+   "pop": 948
+  },
+  {
+   "insee": "77214",
+   "nom": "Gressy",
+   "pop": 807
+  },
+  {
+   "insee": "78158",
+   "nom": "Le Chesnay-Rocquencourt",
+   "pop": 30689
+  },
+  {
+   "insee": "77249",
+   "nom": "Lésigny",
+   "pop": 6923
+  },
+  {
+   "insee": "78172",
+   "nom": "Conflans-Sainte-Honorine",
+   "pop": 36958
+  },
+  {
+   "insee": "77282",
+   "nom": "Mauregard",
+   "pop": 341
+  },
+  {
+   "insee": "77291",
+   "nom": "Le Mesnil-Amelot",
+   "pop": 992
+  },
+  {
+   "insee": "77292",
+   "nom": "Messy",
+   "pop": 1219
+  },
+  {
+   "insee": "77373",
+   "nom": "Pontault-Combault",
+   "pop": 39096
+  },
+  {
+   "insee": "77363",
+   "nom": "Le Pin",
+   "pop": 1530
+  },
+  {
+   "insee": "77450",
+   "nom": "Servon",
+   "pop": 3565
+  },
+  {
+   "insee": "77517",
+   "nom": "Villevaudé",
+   "pop": 2132
+  },
+  {
+   "insee": "78005",
+   "nom": "Achères",
+   "pop": 22241
+  },
+  {
+   "insee": "78126",
+   "nom": "La Celle-Saint-Cloud",
+   "pop": 20460
+  },
+  {
+   "insee": "78146",
+   "nom": "Chatou",
+   "pop": 30598
+  },
+  {
+   "insee": "78190",
+   "nom": "Croissy-sur-Seine",
+   "pop": 11013
+  },
+  {
+   "insee": "78311",
+   "nom": "Houilles",
+   "pop": 33983
+  },
+  {
+   "insee": "78358",
+   "nom": "Maisons-Laffitte",
+   "pop": 23093
+  },
+  {
+   "insee": "78586",
+   "nom": "Sartrouville",
+   "pop": 52763
+  },
+  {
+   "insee": "78640",
+   "nom": "Vélizy-Villacoublay",
+   "pop": 23011
+  },
+  {
+   "insee": "78646",
+   "nom": "Versailles",
+   "pop": 84095
+  },
+  {
+   "insee": "78686",
+   "nom": "Viroflay",
+   "pop": 17237
+  },
+  {
+   "insee": "95210",
+   "nom": "Enghien-les-Bains",
+   "pop": 11432
+  },
+  {
+   "insee": "95257",
+   "nom": "La Frette-sur-Seine",
+   "pop": 4570
+  },
+  {
+   "insee": "91044",
+   "nom": "Ballainvilliers",
+   "pop": 4904
+  },
+  {
+   "insee": "91064",
+   "nom": "Bièvres",
+   "pop": 4686
+  },
+  {
+   "insee": "91097",
+   "nom": "Boussy-Saint-Antoine",
+   "pop": 8097
+  },
+  {
+   "insee": "91114",
+   "nom": "Brunoy",
+   "pop": 25643
+  },
+  {
+   "insee": "91136",
+   "nom": "Champlan",
+   "pop": 2615
+  },
+  {
+   "insee": "91191",
+   "nom": "Crosne",
+   "pop": 9610
+  },
+  {
+   "insee": "91201",
+   "nom": "Draveil",
+   "pop": 30098
+  },
+  {
+   "insee": "91215",
+   "nom": "Épinay-sous-Sénart",
+   "pop": 11611
+  },
+  {
+   "insee": "91216",
+   "nom": "Épinay-sur-Orge",
+   "pop": 10722
+  },
+  {
+   "insee": "91235",
+   "nom": "Fleury-Mérogis",
+   "pop": 13721
+  },
+  {
+   "insee": "95492",
+   "nom": "Le Plessis-Gassot",
+   "pop": 102
+  },
+  {
+   "insee": "91286",
+   "nom": "Grigny",
+   "pop": 26842
+  },
+  {
+   "insee": "91312",
+   "nom": "Igny",
+   "pop": 10833
+  },
+  {
+   "insee": "91421",
+   "nom": "Montgeron",
+   "pop": 24022
+  },
+  {
+   "insee": "91434",
+   "nom": "Morsang-sur-Orge",
+   "pop": 21667
+  },
+  {
+   "insee": "91477",
+   "nom": "Palaiseau",
+   "pop": 37471
+  },
+  {
+   "insee": "91587",
+   "nom": "Saulx-les-Chartreux",
+   "pop": 6733
+  },
+  {
+   "insee": "91631",
+   "nom": "Varennes-Jarcy",
+   "pop": 2465
+  },
+  {
+   "insee": "91645",
+   "nom": "Verrières-le-Buisson",
+   "pop": 15057
+  },
+  {
+   "insee": "91657",
+   "nom": "Vigneux-sur-Seine",
+   "pop": 31466
+  },
+  {
+   "insee": "91667",
+   "nom": "Villemoisson-sur-Orge",
+   "pop": 7332
+  },
+  {
+   "insee": "91691",
+   "nom": "Yerres",
+   "pop": 27906
+  },
+  {
+   "insee": "95051",
+   "nom": "Beauchamp",
+   "pop": 9849
+  },
+  {
+   "insee": "95094",
+   "nom": "Bouqueval",
+   "pop": 314
+  },
+  {
+   "insee": "95219",
+   "nom": "Ermont",
+   "pop": 29489
+  },
+  {
+   "insee": "95197",
+   "nom": "Deuil-la-Barre",
+   "pop": 23099
+  },
+  {
+   "insee": "95205",
+   "nom": "Écouen",
+   "pop": 7202
+  },
+  {
+   "insee": "95218",
+   "nom": "Éragny-sur-Oise",
+   "pop": 18436
+  },
+  {
+   "insee": "95280",
+   "nom": "Goussainville",
+   "pop": 31301
+  },
+  {
+   "insee": "95427",
+   "nom": "Montmagny",
+   "pop": 15105
+  },
+  {
+   "insee": "95488",
+   "nom": "Pierrelaye",
+   "pop": 10130
+  },
+  {
+   "insee": "95491",
+   "nom": "Le Plessis-Bouchard",
+   "pop": 8518
+  },
+  {
+   "insee": "95527",
+   "nom": "Roissy-en-France",
+   "pop": 2674
+  },
+  {
+   "insee": "95555",
+   "nom": "Saint-Gratien",
+   "pop": 21336
+  },
+  {
+   "insee": "95572",
+   "nom": "Saint-Ouen-l'Aumône",
+   "pop": 25578
+  },
+  {
+   "insee": "95585",
+   "nom": "Sarcelles",
+   "pop": 59173
+  },
+  {
+   "insee": "95607",
+   "nom": "Taverny",
+   "pop": 27593
+  },
+  {
+   "insee": "95612",
+   "nom": "Le Thillay",
+   "pop": 4560
+  },
+  {
+   "insee": "95633",
+   "nom": "Vaudherland",
+   "pop": 104
+  }
+ ]
+}
